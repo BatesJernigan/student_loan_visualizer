@@ -83,3 +83,4 @@ shinyUI(navbarPage("Student Loan Data",
                               tabPanel("Topic 5"),
                               tabPanel("Topic 6"))
 ))
+
