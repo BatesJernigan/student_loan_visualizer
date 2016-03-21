@@ -20,4 +20,4 @@ server <- shinyServer(function(input, output) {
     close(conIn)
   })
   output$table1 <- renderDataTable(data.frame(read.csv("data/StateAverageDebt2015.csv")))
-  })
+})
