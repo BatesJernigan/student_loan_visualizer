@@ -58,9 +58,9 @@ shinyUI(navbarPage("Student Loan Data",
                    ),
                    tabPanel("Student Debt by State",
                             sidebarLayout(
-                              sidebarPanel(selectInput(inputId = "Year",
+                              sidebarPanel(selectInput("Year",
                                                        label = "Choose a year",
-                                                       choices = c(2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015))
+                                                       choices = c("2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015"))
                                            ),
                               
                               

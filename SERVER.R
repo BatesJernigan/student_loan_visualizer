@@ -11,7 +11,7 @@ server <- shinyServer(function(input, output) {
     hist(x, breaks = bins, col = 'darkgray', border = 'white')
   })
   output$histPlot1 <- renderPlot({
-    conIn <- file("data/State Average Debt.csv","r")
+    conIn <- file("data/StateAverageDebt2015.csv","r")
     tbl <- read.csv(conIn)
     tbl_df <- data.frame(tbl)
     hist(tbl$AverageDebt, freq = T, breaks = 15, main = paste("Histogram of",
@@ -19,6 +19,6 @@ server <- shinyServer(function(input, output) {
         border = "black", ylim = c(0, 15), xlim = c(18000, 34000))
     close(conIn)
   })
-  output$table1 <- renderDataTable(data.frame(read.csv("data/State Average Debt.csv")))
+  output$table1 <- renderDataTable(data.frame(read.csv("data/StateAverageDebt2015.csv")))
   })
 
