@@ -33,9 +33,7 @@ shinyUI(navbarPage("Student Loan Data",
                               )
                             )
                    ),
-                   tabPanel("National Student Debt 2015"
-                   ),
-                   tabPanel("Student Debt by State",
+                   tabPanel("National Student Debt 2015",
                             sidebarLayout(
                               sidebarPanel(
                                 selectInput(inputId = "state",
@@ -58,9 +56,25 @@ shinyUI(navbarPage("Student Loan Data",
                               )
                             )
                    ),
+                   tabPanel("Student Debt by State",
+                            sidebarLayout(
+                              sidebarPanel(selectInput(inputId = "Year",
+                                                       label = "Choose a year",
+                                                       choices = c(2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015))
+                                           ),
+                              
+                              
+                              # Show a plot of the generated distribution
+                              mainPanel(
+                                plotOutput("histPlot1"),
+                                dataTableOutput("table1")
+                              ))
+                            
+                            
+                   ),
                    tabPanel("Debt by Education Level"),
                    tabPanel("Employment Information"),
                    navbarMenu("More",
-                              tabPanel("Topic 5"),
-                              tabPanel("Topic 6"))
+                              tabPanel("Interest Rates"),
+                              tabPanel("Conclusions"))
 ))
