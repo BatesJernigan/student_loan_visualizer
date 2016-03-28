@@ -16,6 +16,9 @@ $ R
 > install.packages('shiny')
 > install.packages('devtools')
 > devtools::install_github("AnalytixWare/ShinySky")
+$ PROJECT_DIR=$(pwd) && R -e "shiny::runApp('$PROJECT_DIR')" # to run project
 ```
+
+
 
 ##### Thank you for checking out our final project for ITCS 4102 at UNCC!
