@@ -10,7 +10,6 @@ tabPanel(
         choices = c('2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013')
       )
     ),
-    # Show a plot of the generated distribution
     mainPanel(
       tabsetPanel(
         tabPanel('Plot', plotOutput('histPlot1')),
@@ -20,3 +19,4 @@ tabPanel(
     )
   )
 )
+
