@@ -16,6 +16,7 @@ $ R
 > install.packages('shiny')
 > install.packages('devtools')
 > devtools::install_github("AnalytixWare/ShinySky")
+> install.packages('ggplot2')
 $ PROJECT_DIR=$(pwd) && R -e "shiny::runApp('$PROJECT_DIR')" # to run project
 ```
 
