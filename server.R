@@ -10,10 +10,32 @@ server <- shinyServer(function(input, output) {
     close(conIn)
     ggplot(data=tbl, aes(tbl$AverageDebt), xlab = "Average State Debt") + 
       geom_histogram(breaks=seq(10000, 40000, by =500), 
-                     col="red", 
-                     aes(fill=..count..))+ 
+        col="red", 
+        aes(fill=..count..))+ 
       labs(title="Histogram for Average Debt by State") +
       labs(x="Average Debt", y="Number of States")
+  })
+  
+  output$pieChart <- renderPlot({
+    costs_df <- data.frame(read.csv("data/AverageCost/National&StateAverageCosts.csv"))
+    new_df <- subset(costs_df, Name == input$category)
+    total <- sum(new_df$TotalCost)
+    
+    sectors <- new_df$TotalCost/total 
+    labels1 <- new_df$Year
+    percent <- round(sectors/sum(sectors)*100)
+    labels1 <- paste(labels1, percent)
+    labels1 <- paste(labels1,"%",sep="") 
+    pie(sectors,labels = labels1, col = gray(seq(0.4, 1.0, length = 6)),
+        main="Pie Chart of Average Cost")
+  })
+  
+  output$scatterPlot <- renderPlot({
+    costs_df <- data.frame(read.csv("data/AverageCost/National&StateAverageCosts.csv"))
+    new_df <- subset(costs_df, Year == input$Year1)
+    
+    boxplot(new_df$TotalCost ~ new_df$Year,data=new_df, main="Box Plot of Average Cost Per Year", 
+            xlab="Year", ylab="Average Cost", ylim = c(10000, 50000)) 
   })
 
   output$table1 <- renderDataTable(
@@ -21,5 +43,8 @@ server <- shinyServer(function(input, output) {
 
   output$table2 <- renderTable(
     read.csv(paste0(paste0("data/StateDebt/StateAverageDebt",input$Year), "Analysis.csv")), include.rownames=FALSE)
+  
+  output$table3 <- renderDataTable(data.frame(read.csv("data/AverageCost/National&StateAverageCosts.csv")))
+  
   #---------------------------------------------------------------------------------------------------------------------
 })
