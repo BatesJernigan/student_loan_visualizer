@@ -1,0 +1,573 @@
+Name,Year,TotalCost
+Alabama,2003,12880
+Alabama,2004,13406
+Alabama,2005,14427
+Alabama,2006,15232
+Alabama,2007,15673
+Alabama,2008,16659
+Alabama,2009,17246
+Alabama,2010,18207
+Alabama,2011,19904
+Alabama,2012,21349
+Alabama,2013,22295
+Alaska,2003,12531
+Alaska,2004,13053
+Alaska,2005,13418
+Alaska,2006,14351
+Alaska,2007,14644
+Alaska,2008,16110
+Alaska,2009,16306
+Alaska,2010,17188
+Alaska,2011,17337
+Alaska,2012,18493
+Alaska,2013,18223
+Arizona,2003,13695
+Arizona,2004,14505
+Arizona,2005,15454
+Arizona,2006,16146
+Arizona,2007,17043
+Arizona,2008,18436
+Arizona,2009,20481
+Arizona,2010,20830
+Arizona,2011,21854
+Arizona,2012,22860
+Arizona,2013,23502
+Arkansas,2003,13255
+Arkansas,2004,14121
+Arkansas,2005,14820
+Arkansas,2006,15850
+Arkansas,2007,16757
+Arkansas,2008,17656
+Arkansas,2009,18208
+Arkansas,2010,19108
+Arkansas,2011,19806
+Arkansas,2012,20394
+Arkansas,2013,21316
+California,2003,20508
+California,2004,22061
+California,2005,22795
+California,2006,23448
+California,2007,24853
+California,2008,25908
+California,2009,27958
+California,2010,29803
+California,2011,30902
+California,2012,31759
+California,2013,31736
+Colorado,2003,15320
+Colorado,2004,16060
+Colorado,2005,17749
+Colorado,2006,18619
+Colorado,2007,20430
+Colorado,2008,21283
+Colorado,2009,22390
+Colorado,2010,22767
+Colorado,2011,24023
+Colorado,2012,24801
+Colorado,2013,26983
+Connecticut,2003,26188
+Connecticut,2004,27442
+Connecticut,2005,29063
+Connecticut,2006,30193
+Connecticut,2007,31953
+Connecticut,2008,33835
+Connecticut,2009,35480
+Connecticut,2010,37612
+Connecticut,2011,38774
+Connecticut,2012,40612
+Connecticut,2013,42153
+Delaware,2003,15759
+Delaware,2004,16584
+Delaware,2005,17578
+Delaware,2006,18699
+Delaware,2007,19772
+Delaware,2008,20781
+Delaware,2009,22515
+Delaware,2010,23830
+Delaware,2011,24873
+Delaware,2012,25726
+Delaware,2013,26351
+District of Columbia,2003,35710
+District of Columbia,2004,37726
+District of Columbia,2005,39738
+District of Columbia,2006,41669
+District of Columbia,2007,43624
+District of Columbia,2008,45390
+District of Columbia,2009,46713
+District of Columbia,2010,48598
+District of Columbia,2011,51446
+District of Columbia,2012,53387
+District of Columbia,2013,54975
+Florida,2003,16819
+Florida,2004,17634
+Florida,2005,19425
+Florida,2006,20172
+Florida,2007,21121
+Florida,2008,22421
+Florida,2009,23189
+Florida,2010,23888
+Florida,2011,25278
+Florida,2012,26011
+Florida,2013,26711
+Georgia,2003,15722
+Georgia,2004,17308
+Georgia,2005,17622
+Georgia,2006,18839
+Georgia,2007,19893
+Georgia,2008,20766
+Georgia,2009,21929
+Georgia,2010,23352
+Georgia,2011,23346
+Georgia,2012,24385
+Georgia,2013,25165
+Hawaii,2003,13709
+Hawaii,2004,14006
+Hawaii,2005,15011
+Hawaii,2006,16299
+Hawaii,2007,17183
+Hawaii,2008,18144
+Hawaii,2009,20260
+Hawaii,2010,21532
+Hawaii,2011,22827
+Hawaii,2012,22835
+Hawaii,2013,24117
+Idaho,2003,11948
+Idaho,2004,12416
+Idaho,2005,13118
+Idaho,2006,14037
+Idaho,2007,14454
+Idaho,2008,15351
+Idaho,2009,16279
+Idaho,2010,16777
+Idaho,2011,17554
+Idaho,2012,17422
+Idaho,2013,18041
+Illinois,2003,21268
+Illinois,2004,23192
+Illinois,2005,24803
+Illinois,2006,26551
+Illinois,2007,28218
+Illinois,2008,30278
+Illinois,2009,31517
+Illinois,2010,33290
+Illinois,2011,34368
+Illinois,2012,35797
+Illinois,2013,37053
+Indiana,2003,19704
+Indiana,2004,20529
+Indiana,2005,21016
+Indiana,2006,22165
+Indiana,2007,23281
+Indiana,2008,24076
+Indiana,2009,25414
+Indiana,2010,26506
+Indiana,2011,27396
+Indiana,2012,28760
+Indiana,2013,28938
+Iowa,2003,16821
+Iowa,2004,18028
+Iowa,2005,18981
+Iowa,2006,20070
+Iowa,2007,21002
+Iowa,2008,21932
+Iowa,2009,21641
+Iowa,2010,22400
+Iowa,2011,22990
+Iowa,2012,24243
+Iowa,2013,24804
+Kansas,2003,12480
+Kansas,2004,13419
+Kansas,2005,13608
+Kansas,2006,14556
+Kansas,2007,15265
+Kansas,2008,16304
+Kansas,2009,16988
+Kansas,2010,17553
+Kansas,2011,18093
+Kansas,2012,18701
+Kansas,2013,19437
+Kentucky,2003,13726
+Kentucky,2004,15055
+Kentucky,2005,16021
+Kentucky,2006,17172
+Kentucky,2007,18788
+Kentucky,2008,19738
+Kentucky,2009,21000
+Kentucky,2010,22063
+Kentucky,2011,23111
+Kentucky,2012,24087
+Kentucky,2013,24792
+Louisiana,2003,13807
+Louisiana,2004,14484
+Louisiana,2005,12838
+Louisiana,2006,14999
+Louisiana,2007,16400
+Louisiana,2008,17946
+Louisiana,2009,18888
+Louisiana,2010,20025
+Louisiana,2011,21266
+Louisiana,2012,23054
+Louisiana,2013,23973
+Maine,2003,16778
+Maine,2004,18005
+Maine,2005,19033
+Maine,2006,20182
+Maine,2007,22111
+Maine,2008,23145
+Maine,2009,23998
+Maine,2010,28098
+Maine,2011,28864
+Maine,2012,29922
+Maine,2013,30689
+Maryland,2003,19819
+Maryland,2004,21012
+Maryland,2005,22159
+Maryland,2006,23151
+Maryland,2007,23888
+Maryland,2008,24990
+Maryland,2009,25810
+Maryland,2010,26926
+Maryland,2011,28372
+Maryland,2012,29206
+Maryland,2013,31814
+Massachusetts,2003,30001
+Massachusetts,2004,31807
+Massachusetts,2005,33108
+Massachusetts,2006,34827
+Massachusetts,2007,36765
+Massachusetts,2008,38447
+Massachusetts,2009,40134
+Massachusetts,2010,41651
+Massachusetts,2011,43226
+Massachusetts,2012,44797
+Massachusetts,2013,46127
+Michigan,2003,16563
+Michigan,2004,16940
+Michigan,2005,17997
+Michigan,2006,18918
+Michigan,2007,20220
+Michigan,2008,21241
+Michigan,2009,22120
+Michigan,2010,22797
+Michigan,2011,23891
+Michigan,2012,24819
+Michigan,2013,25423
+Minnesota,2003,18234
+Minnesota,2004,19603
+Minnesota,2005,20970
+Minnesota,2006,22297
+Minnesota,2007,23417
+Minnesota,2008,24569
+Minnesota,2009,25717
+Minnesota,2010,26837
+Minnesota,2011,28150
+Minnesota,2012,29521
+Minnesota,2013,29995
+Mississippi,2003,8691
+Mississippi,2004,9262
+Mississippi,2005,9696
+Mississippi,2006,10448
+Mississippi,2007,11001
+Mississippi,2008,11555
+Mississippi,2009,12148
+Mississippi,2010,13010
+Mississippi,2011,13734
+Mississippi,2012,14523
+Mississippi,2013,15040
+Missouri,2003,17626
+Missouri,2004,18517
+Missouri,2005,19292
+Missouri,2006,20560
+Missouri,2007,20946
+Missouri,2008,22456
+Missouri,2009,22870
+Missouri,2010,23562
+Missouri,2011,23846
+Missouri,2012,24653
+Missouri,2013,25285
+Montana,2003,13725
+Montana,2004,14310
+Montana,2005,14941
+Montana,2006,15832
+Montana,2007,16626
+Montana,2008,17151
+Montana,2009,18066
+Montana,2010,18943
+Montana,2011,18978
+Montana,2012,19765
+Montana,2013,20007
+National,2004,19535
+National,2005,20646
+National,2006,21831
+National,2007,22994
+National,2008,24186
+National,2009,25168
+National,2010,26337
+National,2011,27406
+National,2012,28457
+National,2013,29346
+National,2003,18325
+Nebraska,2003,13758
+Nebraska,2004,14771
+Nebraska,2005,15799
+Nebraska,2006,16420
+Nebraska,2007,17335
+Nebraska,2008,17875
+Nebraska,2009,18525
+Nebraska,2010,19245
+Nebraska,2011,20051
+Nebraska,2012,21059
+Nebraska,2013,21860
+Nevada,2003,15912
+Nevada,2004,15697
+Nevada,2005,16562
+Nevada,2006,17725
+Nevada,2007,18611
+Nevada,2008,19451
+Nevada,2009,20020
+Nevada,2010,22704
+Nevada,2011,22709
+Nevada,2012,22300
+Nevada,2013,22920
+New Hampshire,2003,23943
+New Hampshire,2004,24761
+New Hampshire,2005,25443
+New Hampshire,2006,26688
+New Hampshire,2007,28386
+New Hampshire,2008,29506
+New Hampshire,2009,30813
+New Hampshire,2010,32694
+New Hampshire,2011,34009
+New Hampshire,2012,35974
+New Hampshire,2013,37186
+New Jersey,2003,22962
+New Jersey,2004,24407
+New Jersey,2005,26179
+New Jersey,2006,27657
+New Jersey,2007,29104
+New Jersey,2008,30855
+New Jersey,2009,32030
+New Jersey,2010,33069
+New Jersey,2011,33794
+New Jersey,2012,35038
+New Jersey,2013,35214
+New Mexico,2003,12088
+New Mexico,2004,12522
+New Mexico,2005,13440
+New Mexico,2006,14420
+New Mexico,2007,15342
+New Mexico,2008,16216
+New Mexico,2009,16298
+New Mexico,2010,17364
+New Mexico,2011,18034
+New Mexico,2012,18561
+New Mexico,2013,18982
+New York,2003,24570
+New York,2004,26155
+New York,2005,27621
+New York,2006,29033
+New York,2007,30389
+New York,2008,31666
+New York,2009,32987
+New York,2010,34115
+New York,2011,35505
+New York,2012,36404
+New York,2013,37465
+North Carolina,2003,16511
+North Carolina,2004,17873
+North Carolina,2005,18505
+North Carolina,2006,19664
+North Carolina,2007,20763
+North Carolina,2008,21581
+North Carolina,2009,22631
+North Carolina,2010,24139
+North Carolina,2011,25324
+North Carolina,2012,26351
+North Carolina,2013,28226
+North Dakota,2003,11810
+North Dakota,2004,12543
+North Dakota,2005,13219
+North Dakota,2006,14043
+North Dakota,2007,14482
+North Dakota,2008,15469
+North Dakota,2009,15685
+North Dakota,2010,16552
+North Dakota,2011,17693
+North Dakota,2012,18197
+North Dakota,2013,18535
+Ohio,2003,20615
+Ohio,2004,22465
+Ohio,2005,24119
+Ohio,2006,25484
+Ohio,2007,25746
+Ohio,2008,26701
+Ohio,2009,27335
+Ohio,2010,28555
+Ohio,2011,29413
+Ohio,2012,30301
+Ohio,2013,30976
+Oklahoma,2003,12120
+Oklahoma,2004,13249
+Oklahoma,2005,14342
+Oklahoma,2006,15323
+Oklahoma,2007,16490
+Oklahoma,2008,17859
+Oklahoma,2009,17822
+Oklahoma,2010,18426
+Oklahoma,2011,19232
+Oklahoma,2012,20455
+Oklahoma,2013,21078
+Oregon,2003,18463
+Oregon,2004,20079
+Oregon,2005,20933
+Oregon,2006,21965
+Oregon,2007,23114
+Oregon,2008,23611
+Oregon,2009,24858
+Oregon,2010,26043
+Oregon,2011,27577
+Oregon,2012,28212
+Oregon,2013,29412
+Pennsylvania,2003,23583
+Pennsylvania,2004,25082
+Pennsylvania,2005,26518
+Pennsylvania,2006,27688
+Pennsylvania,2007,29409
+Pennsylvania,2008,30967
+Pennsylvania,2009,32148
+Pennsylvania,2010,33751
+Pennsylvania,2011,35159
+Pennsylvania,2012,36643
+Pennsylvania,2013,37854
+Rhode Island,2003,26972
+Rhode Island,2004,28393
+Rhode Island,2005,30033
+Rhode Island,2006,30924
+Rhode Island,2007,32406
+Rhode Island,2008,34467
+Rhode Island,2009,35932
+Rhode Island,2010,38809
+Rhode Island,2011,40156
+Rhode Island,2012,41511
+Rhode Island,2013,42401
+South Carolina,2003,17296
+South Carolina,2004,18264
+South Carolina,2005,19673
+South Carolina,2006,21038
+South Carolina,2007,22304
+South Carolina,2008,23717
+South Carolina,2009,24795
+South Carolina,2010,25572
+South Carolina,2011,26606
+South Carolina,2012,27148
+South Carolina,2013,28140
+South Dakota,2003,13566
+South Dakota,2004,14073
+South Dakota,2005,14769
+South Dakota,2006,16053
+South Dakota,2007,16822
+South Dakota,2008,17987
+South Dakota,2009,18294
+South Dakota,2010,19003
+South Dakota,2011,20039
+South Dakota,2012,20965
+South Dakota,2013,21574
+Tennessee,2003,17259
+Tennessee,2004,18375
+Tennessee,2005,19505
+Tennessee,2006,20363
+Tennessee,2007,21615
+Tennessee,2008,22827
+Tennessee,2009,24062
+Tennessee,2010,25109
+Tennessee,2011,26445
+Tennessee,2012,27756
+Tennessee,2013,28905
+Texas,2003,13600
+Texas,2004,14604
+Texas,2005,15950
+Texas,2006,17261
+Texas,2007,18262
+Texas,2008,19427
+Texas,2009,20005
+Texas,2010,20973
+Texas,2011,21833
+Texas,2012,22599
+Texas,2013,23169
+Utah,2003,12078
+Utah,2004,12462
+Utah,2005,13495
+Utah,2006,13718
+Utah,2007,14991
+Utah,2008,15385
+Utah,2009,16235
+Utah,2010,17435
+Utah,2011,18303
+Utah,2012,19109
+Utah,2013,19384
+Vermont,2003,21363
+Vermont,2004,22970
+Vermont,2005,23727
+Vermont,2006,24879
+Vermont,2007,26649
+Vermont,2008,28460
+Vermont,2009,30130
+Vermont,2010,33945
+Vermont,2011,35427
+Vermont,2012,37100
+Vermont,2013,37608
+Virginia,2003,17394
+Virginia,2004,18666
+Virginia,2005,19186
+Virginia,2006,20430
+Virginia,2007,22039
+Virginia,2008,23248
+Virginia,2009,24684
+Virginia,2010,25711
+Virginia,2011,26910
+Virginia,2012,27957
+Virginia,2013,29156
+Washington,2003,18853
+Washington,2004,19627
+Washington,2005,20056
+Washington,2006,21243
+Washington,2007,22613
+Washington,2008,24113
+Washington,2009,24728
+Washington,2010,26169
+Washington,2011,27551
+Washington,2012,29464
+Washington,2013,29916
+West Virginia,2003,13367
+West Virginia,2004,14142
+West Virginia,2005,14963
+West Virginia,2006,15590
+West Virginia,2007,16351
+West Virginia,2008,17118
+West Virginia,2009,17992
+West Virginia,2010,18676
+West Virginia,2011,19010
+West Virginia,2012,19983
+West Virginia,2013,20800
+Wisconsin,2003,15394
+Wisconsin,2004,16421
+Wisconsin,2005,17369
+Wisconsin,2006,18454
+Wisconsin,2007,19048
+Wisconsin,2008,20548
+Wisconsin,2009,21679
+Wisconsin,2010,22737
+Wisconsin,2011,23700
+Wisconsin,2012,24660
+Wisconsin,2013,25315
+Wyoming,2003,9274
+Wyoming,2004,9589
+Wyoming,2005,9937
+Wyoming,2006,10890
+Wyoming,2007,11567
+Wyoming,2008,12147
+Wyoming,2009,12353
+Wyoming,2010,12811
+Wyoming,2011,13475
+Wyoming,2012,13778
+Wyoming,2013,14291
