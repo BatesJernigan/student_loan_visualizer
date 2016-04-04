@@ -28,7 +28,7 @@ server <- shinyServer(function(input, output) {
     labels1 <- paste(labels1, percent)
     labels1 <- paste(labels1,"%",sep="") 
     pie(sectors,labels = labels1, col = gray(seq(0.4, 1.0, length = 6)),
-        main="Pie Chart of Average Cost")
+        main=paste0("Pie Chart of Average Cost For ", input$category))
   })
   
   output$scatterPlot <- renderPlot({
@@ -48,8 +48,7 @@ server <- shinyServer(function(input, output) {
   output$boxPlot <- renderPlot({
     costs_df <- data.frame(read.csv("data/AverageCost/National&StateAverageCosts.csv"))
     new_df <- subset(costs_df, Year == input$Year1)
-    
-    boxplot(new_df$TotalCost ~ new_df$Year,data=new_df, main="Box Plot of Average Cost Per Year", 
+    boxplot(new_df$TotalCost ~ new_df$Year,data=new_df, main=paste0("Box Plot of Average Cost Per Year For ", input$Year1), 
       xlab="Year", ylab="Average Cost", ylim = c(10000, 50000)) 
   })
 
