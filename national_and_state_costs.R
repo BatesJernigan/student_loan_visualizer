@@ -22,12 +22,12 @@ tabPanel(
     ),
     mainPanel(
       tabsetPanel(
-        tabPanel('Plot', plotOutput('pieChart'), plotOutput("scatterPlot")),
+        tabPanel('Plot', plotOutput('pieChart'), plotOutput("boxPlot")),
         tabPanel('Data Table', dataTableOutput('table3')),
         tabPanel('Conclusions', hr(), p("Based on the data presented by this data set, we can see that costs of
                                   attendance of schools at the state and national averages have rose roughly
                                   $10,000 dollars since 2003, which cooresponds to an almost identical increase
-                                  in student indebtness. This suggests that the increasing indebtness is not
+                                  in student indebtedness. This suggests that the increasing indebtedness is not
                                   due to a students trending to prefer taking on loans themselves, but that the
                                   rising costs of education are forcing them into debt."))
       )
