@@ -27,7 +27,7 @@ server <- shinyServer(function(input, output) {
     percent <- round(sectors/sum(sectors)*100)
     labels1 <- paste(labels1, percent)
     labels1 <- paste(labels1,"%",sep="") 
-    pie(sectors,labels = labels1, col = gray(seq(0.4, 1.0, length = 6)),
+    pie(sectors,labels = labels1, col= topo.colors(11),
         main=paste0("Pie Chart of Average Cost For ", input$category))
   })
   

@@ -22,7 +22,7 @@ tabPanel(
     ),
     mainPanel(
       tabsetPanel(
-        tabPanel('Plot', plotOutput('pieChart'), plotOutput("boxPlot")),
+        tabPanel('Plot', plotOutput('pieChart'),hr(),p("Choose a state (or National) to view a pie chart comparing total cost percentages."), plotOutput("boxPlot"),hr(),p("Choose a year to view a boxplot of the average cost for that year.")),
         tabPanel('Data Table', dataTableOutput('table3')),
         tabPanel('Conclusions', hr(), p("Based on the data presented by this data set, we can see that costs of
                                   attendance of schools at the state and national averages have rose roughly

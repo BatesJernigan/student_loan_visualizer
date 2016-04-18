@@ -12,7 +12,7 @@ tabPanel(
     ),
     mainPanel(
       tabsetPanel(
-        tabPanel('Plot', plotOutput('histPlot1')),
+        tabPanel('Plot', plotOutput('histPlot1'),hr(),p("Choose a year to view the average debt for every state for that year.")),
         tabPanel('Data Table', dataTableOutput('table1')),
         tabPanel('Summary Statistics', tableOutput('table2')),
         tabPanel('Conclusion', hr(),p("The main takeaway from this state debt data is that the distribution

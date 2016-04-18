@@ -9,19 +9,15 @@ tabPanel('Intro',
     mainPanel(
       h1("Intent"),
       hr(),
-      p("The  goal  of  this  app is to give basic  details about the employment situation
-        for computer  programmers  for the nation, by  state, and for each county in North
-        Carolina.  Our  information  is  taken straight  from BLS.GOV, the Bureau of Labor
-        and Statistics, and presented using built in R  functions to represent statistical
-        analysis."),
+      p("Our intent  for  this  app  is to take statistical data and draw conclusions from this data based on 
+         visualizations created by the R language. We are using the shiny framework to build the webapp. Each 
+         tab should present data  and draw a conclusion about the future outlook of costs and debt of current 
+         students."),
       hr(),
       h1("Goals"),
-      p("Our goals are to accurately represent the current job outlook for CS students who
-        plan  to  identify  as  'Computer Programmers' who are entering the workforce upon
-        graduation.  We decided to use R for it's data analysis features for this task. We
-        also  chose  to  utilize  the  shiny  package  for R in order to develop a web app 
-        because  it is  a good example of the simplicity that R offers to its users, while 
-        providing powerful analytical support.")
+      p("Our goals are to demonstrate our conclusions with data visualizations supported by the R language
+        that are simple and easy to understand, while maintaining a smooth and pleasant user interface.")
     )
   )
 )
+
