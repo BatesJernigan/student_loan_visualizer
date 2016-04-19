@@ -1,5 +1,7 @@
 tabPanel(
   'Employment Information',
+  img(src = 'BLS.png', height = 90, width = 175),
+  p("All data on this page taken from BLS.gov"),
   sidebarLayout(
     sidebarPanel(
       selectInput(
