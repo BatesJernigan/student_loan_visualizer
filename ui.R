@@ -3,9 +3,6 @@ library(shiny)
 library(maps)
 library(mapproj)
 
-my_autocomplete_list <- c("Web Developer", "Software Developer", "Finance", "Biologist",
-                          "Chemist", "Physist", "Doctor", "Engineer", "Manager")
-
 # Define UI for application that draws a histogram
 shinyUI(
   navbarPage(

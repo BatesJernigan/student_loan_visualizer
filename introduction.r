@@ -16,7 +16,9 @@ tabPanel('Intro',
       hr(),
       h1("Goals"),
       p("Our goals are to demonstrate our conclusions with data visualizations supported by the R language
-        that are simple and easy to understand, while maintaining a smooth and pleasant user interface.")
+        that are simple and easy to understand, while maintaining a smooth and pleasant user interface. By
+        the end of the application, we hope to have useful information for upcoming college graduates with
+        a meaningful projection of their future circumstances.")
     )
   )
 )

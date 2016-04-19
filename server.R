@@ -60,5 +60,7 @@ server <- shinyServer(function(input, output) {
   
   output$table3 <- renderDataTable(data.frame(read.csv("data/AverageCost/National&StateAverageCosts.csv")))
   
+  output$table4 <- renderDataTable(data.frame(read.csv("data/Salaries/Salaries.csv")))
+  
   #---------------------------------------------------------------------------------------------------------------------
 })
